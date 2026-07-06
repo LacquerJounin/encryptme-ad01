@@ -1,4 +1,4 @@
-
+premium OpenVPN Service | dedicated-IP + kill-switch is the best OpenVPN service, featuring dedicated-IP and kill-switch. Secure, fast, and optimized for privacy.
 
 
 
